@@ -1,0 +1,5 @@
+Inspired by https://modelsaber.com/Bloqs/?id=1596351345&pc , just that this note has size differences and arrow size differences.
+- Note uses base game materials (Note and Debris)
+- Note has custom debris.
+
+(Preview image in the note zip isn't accurate.)
